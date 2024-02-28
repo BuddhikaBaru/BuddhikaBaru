@@ -4,14 +4,14 @@ preview
 <h1 align="center">Welcome to my profile: I am Sudarshan!</h1>
 <h3 align="center">Passion to Explore Science and Tech</h3>
 
-- 👨‍💻 All of my projects are available at [BuddhikaBaru.github.io](BuddhikaBaru.github.io)
-
 - 📫 How to reach me **buddhika.baru@gmail.com**
-
 - ⚡ Fun fact **I am an INFJ**
 
+# Social
+<a href="https://linkedin.com/in/www.linkedin.com/in/bsbaru/"><image src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://facebook.com/web.facebook.com/buddhika.sudarshana.35"><image src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
