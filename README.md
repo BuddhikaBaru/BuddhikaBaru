@@ -1,3 +1,3 @@
 # I am Baru!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuddhikaBaru)](https://github.com/BuddhikaBaru/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaBaru&layout=compact">
