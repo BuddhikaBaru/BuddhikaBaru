@@ -5,7 +5,7 @@ preview
 <h3 align="center">Passion to Explore Science and Tech</h3>
 
 - 📫 How to reach me **buddhika.baru@gmail.com**
-- ⚡ Fun fact **I am an INFJ**
+
 
 # Social
 <a href="https://linkedin.com/in/www.linkedin.com/in/bsbaru/"><image src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
